@@ -29,6 +29,6 @@ Feel free to use the dashboard for analysis and insights. You can customize the 
 - Dataset: [DataWorld](https://data.world/alice-c/starbucks)
 - Dashboard Creator: [vishnukanth.k]
 - NovyPro Project Link: [NovyPro](https://www.novypro.com/project/starbucks-geographical--demographic-dashboard-)
-- LinkedIn Profile: [Your LinkedIn Profile](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
+- LinkedIn Profile: [LinkedIn Profile](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
 
 
